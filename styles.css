@@ -1,7 +1,6 @@
 body {
     background: black;
     width:400px;
-    
     margin: auto;
     padding-top: 5px;
 
@@ -82,7 +81,6 @@ body {
 
 .text p {
     padding: 10px;
- 
     font-family: "Roboto";
 }
 
